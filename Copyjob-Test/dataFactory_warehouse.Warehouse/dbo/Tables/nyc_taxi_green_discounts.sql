@@ -1,0 +1,37 @@
+CREATE TABLE [dbo].[nyc_taxi_green_discounts] (
+    [_c0]  VARCHAR (8000) NULL,
+    [_c1]  VARCHAR (8000) NULL,
+    [_c2]  VARCHAR (8000) NULL,
+    [_c3]  VARCHAR (8000) NULL,
+    [_c4]  VARCHAR (8000) NULL,
+    [_c5]  VARCHAR (8000) NULL,
+    [_c6]  VARCHAR (8000) NULL,
+    [_c7]  VARCHAR (8000) NULL,
+    [_c8]  VARCHAR (8000) NULL,
+    [_c9]  VARCHAR (8000) NULL,
+    [_c10] VARCHAR (8000) NULL,
+    [_c11] VARCHAR (8000) NULL,
+    [_c12] VARCHAR (8000) NULL,
+    [_c13] VARCHAR (8000) NULL,
+    [_c14] VARCHAR (8000) NULL,
+    [_c15] VARCHAR (8000) NULL,
+    [_c16] VARCHAR (8000) NULL,
+    [_c17] VARCHAR (8000) NULL,
+    [_c18] VARCHAR (8000) NULL,
+    [_c19] VARCHAR (8000) NULL,
+    [_c20] VARCHAR (8000) NULL,
+    [_c21] VARCHAR (8000) NULL,
+    [_c22] VARCHAR (8000) NULL,
+    [_c23] VARCHAR (8000) NULL,
+    [_c24] VARCHAR (8000) NULL,
+    [_c25] VARCHAR (8000) NULL,
+    [_c26] VARCHAR (8000) NULL,
+    [_c27] VARCHAR (8000) NULL,
+    [_c28] VARCHAR (8000) NULL,
+    [_c29] VARCHAR (8000) NULL,
+    [_c30] VARCHAR (8000) NULL,
+    [_c31] VARCHAR (8000) NULL
+);
+
+
+GO
