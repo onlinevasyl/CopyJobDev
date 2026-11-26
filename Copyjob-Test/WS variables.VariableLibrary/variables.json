@@ -1,0 +1,41 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/variables/1.0.0/schema.json",
+  "variables": [
+    {
+      "name": "Source_Lakehouse_ID",
+      "note": "",
+      "type": "String",
+      "value": "6a339dfb-e199-4ce5-993a-82618a70b3f1"
+    },
+    {
+      "name": "Source_Workspace_ID",
+      "note": "",
+      "type": "String",
+      "value": "fc806946-335a-445e-babf-761f54e38f78"
+    },
+    {
+      "name": "Destination_Lakehouse_ID",
+      "note": "",
+      "type": "String",
+      "value": "993227e8-9a5f-4047-8842-7c17455e4d71"
+    },
+    {
+      "name": "Destination_Workspace_ID",
+      "note": "",
+      "type": "String",
+      "value": "9f457a5d-d99f-4ac7-96cf-c3e408fdb5d1"
+    },
+    {
+      "name": "SourceTable_Name",
+      "note": "",
+      "type": "String",
+      "value": "green_tripdata_2017"
+    },
+    {
+      "name": "DestinationTable_Name",
+      "note": "",
+      "type": "String",
+      "value": "TestCopiedData"
+    }
+  ]
+}

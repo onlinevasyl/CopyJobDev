@@ -9,15 +9,18 @@
   "queriesMetadata": {
     "LakehouseId": {
       "queryId": "7710897d-6336-4ff3-92b8-bb9c1eb851d6",
-      "queryName": "LakehouseId"
+      "queryName": "LakehouseId",
+      "loadEnabled": false
     },
     "Region": {
       "queryId": "1744e5d1-5de8-4470-b162-f428010fa9fc",
-      "queryName": "Region"
+      "queryName": "Region",
+      "loadEnabled": false
     },
     "WorkspaceId": {
       "queryId": "28f5c504-86c8-4490-a41a-bfa2fc01cd85",
-      "queryName": "WorkspaceId"
+      "queryName": "WorkspaceId",
+      "loadEnabled": false
     },
     "holidaydatacontainer": {
       "queryId": "4408262d-88f9-4ae1-8112-9d261a482253",
